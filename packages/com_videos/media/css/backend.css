@@ -1,0 +1,3 @@
+.form-horizontal .control-group:before, .form-horizontal .control-group:after {
+	display: inherit !important;
+}
